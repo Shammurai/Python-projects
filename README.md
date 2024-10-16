@@ -1,0 +1,1 @@
+This repository is continuously updated with new challenges and exercises as I explore more advanced topics and refine existing solutions. It serves as a personal resource for growth, but contributions and suggestions from other learners and developers are always welcome.
