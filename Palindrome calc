@@ -1,0 +1,9 @@
+def is_palindrome(s):
+    s = ''.join(e for e in s if e.isalnum()).lower()
+    return s == s[::-1]
+
+string = input("Enter a string: ")
+if is_palindrome(string):
+    print("Palindrome")
+else:
+    print("Not a palindrome")
